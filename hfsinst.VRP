@@ -1,0 +1,12 @@
+VX-REXX OS/2 V2.14 Build B3
+VRX: hfsinst.VRX
+MacroPath: VRM:D:\DEVELOPMENT\VXREXX\Projects\HFSINST
+EXEPath: 
+RunParameters: 
+RunDirectory: 
+VRXWindow: __VREMainWindow,1,458,1783,5767,8000
+VRXWindow: __VRESectionListWindow,1,1433,7853,3469,3939
+VRXWindow: __VREToolsWindow,1,1542,7950,4971,1659
+VRXWindow: __VREWindListWindow,1,3770,7275,2650,3150
+UserFile: 1
+UserWindow: WN_MAIN,1
